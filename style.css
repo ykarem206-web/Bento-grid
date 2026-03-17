@@ -200,10 +200,13 @@ body{
         grid-template-columns: 1fr;
         padding: 20px;
         gap: 16px;
+        display: flex;
+        flex-direction: column;
     }
     .item{
         grid-column: span 1;
         grid-row: span 1;
+        width: 100%;
     }
     .item-3{order: 1;}
     .item-4{order: 2;}
