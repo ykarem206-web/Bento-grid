@@ -27,7 +27,6 @@ body{
     grid-auto-flow: column;
     gap: 24px;
     border-radius: 10px;
-    overflow: hidden;
 }
 .item{
     width: 100%;
@@ -202,6 +201,7 @@ body{
         gap: 16px;
         display: flex;
         flex-direction: column;
+        min-height: 100vh;
     }
     .item{
         grid-column: span 1;
