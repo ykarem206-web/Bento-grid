@@ -214,4 +214,14 @@ body{
     .item-7{order: 5;}
     .item-5{order: 6;}
     .item-0{order: 7;}
+
+    .img-8{
+        width: 100%;
+    }
+    .img-6{
+        width: 50px;
+    }
+    .img-5{
+        width: auto;
+    }
 }
