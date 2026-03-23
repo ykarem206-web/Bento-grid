@@ -200,6 +200,7 @@ body{
         flex-direction: column;
         height: auto;
         gap: 16px;
+        max-width: 90%;
     }
     .item{
         width: 100%;
